@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakibhossainsk
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a professional web designer and developer
+- 💞️ I’m looking to collaborate on web design and development
 - 📫 How to reach me ...
 
 <!---
